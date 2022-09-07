@@ -8,7 +8,7 @@ You have found a Awesome-Graph-Neural-Network by a little rookie in the to recor
 
 ### Why this course?
 
-For me, I build this course to push myself to study harder and read more papers on Graph Neural Network. Also this can help me to do more presentation practice and improve my English speaking. Moreover, the great ambition is that, I am looking forward to writing a book about Graph Neural Network. I will draft the book gradually as the course goes on. I still no nothing about how to do this well, please feel free to leave the message to me.
+For me, I build this course to push myself to study harder and read more papers on Graph Neural Network. Also this can help me to do more presentation practice and improve my English speaking. Moreover, the great ambition is that, I am looking forward to writing a book about Graph Neural Network. I will draft the book gradually as the course goes on. I still know nothing about how to do this well, please feel free to leave the message to me.
 
 For you, why choose this course since there are many good courses about learning on graph? I think there are majorly two ways to gain knowledge from the Graph Neural Network. One is some general course, for example, my favourite Jure's course [link](http://web.stanford.edu/class/cs224w/). I think the main purpose for those course is to introduce and involve more people into the research of Graph Neural. It may be too basic for the researcher in graph domain. The other is the paper reading group like the great [LoGaG]([Hannes Stärk (hannes-stark.com)](https://hannes-stark.com/logag-reading-group)). It aims to read the advanced paper on Graph. However, they require much knowledge in the specific domain, e.g., massive related works and mathematic knowledge. **Our course aims to bridge the gap between introduction and advantaged topics.** We will:
 
@@ -33,6 +33,7 @@ I will first schedule the first few lecture by myself to find the suitable guida
 | ---- | ------------------------------------------------- | ------- | ---------------- |
 |      | Graph Convolutional Network                       |         |                  |
 |      | Oversmooth and deeper GNN                         |         |                  |
+|      | Graph Regularization Term                                 |         |                  |
 |      | Heterphoily Graph                                 |         |                  |
 |      | Graph Pooling                                     |         |                  |
 |      | Powerful Readout function in Graph Neural Network |         |                  |
@@ -43,7 +44,7 @@ I will first schedule the first few lecture by myself to find the suitable guida
 |      | Self-supervised Learning on Graph (1)             |         |                  |
 |      | Self-supervised Learning on Graph (2)             |         |                  |
 |      | Graph Structural Learning                         |         |                  |
-|      | Graph Generalization                              |         |                  |
+|      | Graph Generation                             |         |                  |
 
  
 
