@@ -29,9 +29,21 @@ I will first schedule the first few lecture by myself to find the suitable guida
 
 ### The schedule
 
-
-
-
+| Date | Topics                                            | Lecture | Reading material |
+| ---- | ------------------------------------------------- | ------- | ---------------- |
+|      | Graph Convolutional Network                       |         |                  |
+|      | Oversmooth and deeper GNN                         |         |                  |
+|      | Heterphoily Graph                                 |         |                  |
+|      | Graph Pooling                                     |         |                  |
+|      | Powerful Readout function in Graph Neural Network |         |                  |
+|      | Knowledge Graph Completion                        |         |                  |
+|      | Link Prediction                                   |         |                  |
+|      | Matrix Factorization on Graph                     |         |                  |
+|      | Understanding on Graph Neural Network             |         |                  |
+|      | Self-supervised Learning on Graph (1)             |         |                  |
+|      | Self-supervised Learning on Graph (2)             |         |                  |
+|      | Graph Structural Learning                         |         |                  |
+|      | Graph Generalization                              |         |                  |
 
  
 
