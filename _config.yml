@@ -20,6 +20,7 @@ author: Haitao Mao
 ###############################################
 
 navbar-links:
+  Blog: "blog"
   # About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
