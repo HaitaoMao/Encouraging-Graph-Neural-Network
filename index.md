@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Awesome-Graph-Neural-Network
-subtitle: Fall 2022
+title: Encouraging-Graph-Neural-Network
+subtitle: Fall 2022 - Fall 2024
 ---
 
-You have found a Awesome-Graph-Neural-Network by a little rookie in the to record his learning procedure on the research road of Graph Neural Network. 
+You have found an Encouraging-Graph-Neural-Network by a little rookie in the to record his learning procedure on the research road of Graph Neural Network. 
 
 ### Why this course?
 
@@ -33,7 +33,7 @@ I will first schedule the first few lecture by myself to find the suitable guida
 | ---- | ------------------------------------------------- | ------- | ---------------- |
 |      | Graph Convolutional Network                       |         |                  |
 |      | Oversmooth and deeper GNN                         |         |                  |
-|      | Graph Regularization Term                                 |         |                  |
+|      | Regularization on Graph                           |         |                  |
 |      | Heterphoily Graph                                 |         |                  |
 |      | Graph Pooling                                     |         |                  |
 |      | Powerful Readout function in Graph Neural Network |         |                  |
@@ -44,9 +44,23 @@ I will first schedule the first few lecture by myself to find the suitable guida
 |      | Self-supervised Learning on Graph (1)             |         |                  |
 |      | Self-supervised Learning on Graph (2)             |         |                  |
 |      | Graph Structural Learning                         |         |                  |
-|      | Graph Generation                             |         |                  |
+|      | Graph Generation                                  |         |                  |
 
  
+
+### Course Textbook
+
+It will be a draft continually updated with throughout this course. All kinds of feedback is welcomed to improve this book.
+
+
+
+### Prerequisites
+
+I hope you can have a brief reading on the first few chapter on [Deep Learning on Graph](https://web.njit.edu/~ym329/dlg_book/dlg_book.pdf) to have a basic knowledge on deep learning on graph.
+
+
+
+
 
 
 
