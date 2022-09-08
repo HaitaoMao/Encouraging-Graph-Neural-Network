@@ -19,7 +19,7 @@ For you, why choose this course since there are many good courses about learning
 
 ### The course information
 
-All the information will be updated on the [Slack work space](https://join.slack.com/t/slack-ylw1238/shared_invite/zt-1fhvrunlz-_ocT4myFMnDcbGhkTVtahQ). Feel free to give you valuable suggestion and discussion. You can also contact me via email: haitaoma AT msu DOT com.
+All the information will be updated on the [Slack work space](https://join.slack.com/t/awesomegraphn-brh9601/shared_invite/zt-1fhvrunlz-_ocT4myFMnDcbGhkTVtahQ). Feel free to give you valuable suggestion and discussion. You can also contact me via email: haitaoma AT msu DOT com.
 
 I wish to complete this course in two years times, a really long time. Since I am also a Ph.D. student, I only have some spare time on Saturday for me to take effort for this course. Hopefully, I need one week to learn and write the learning material, one week to prepare the slides and record the course. It will be cancelled for paper deadlines.
 
