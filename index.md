@@ -29,22 +29,24 @@ I will first schedule the first few lecture by myself to find the suitable guida
 
 ### The schedule
 
-| Date | Topics                                            | Lecture | Reading material |
-| ---- | ------------------------------------------------- | ------- | ---------------- |
-|      | Graph Convolutional Network                       |         |                  |
-|      | Oversmooth and deeper GNN                         |         |                  |
-|      | Regularization on Graph                           |         |                  |
-|      | Heterphoily Graph                                 |         |                  |
-|      | Graph Pooling                                     |         |                  |
-|      | Powerful Readout function in Graph Neural Network |         |                  |
-|      | Knowledge Graph Completion                        |         |                  |
-|      | Link Prediction                                   |         |                  |
-|      | Matrix Factorization on Graph                     |         |                  |
-|      | Understanding on Graph Neural Network             |         |                  |
-|      | Self-supervised Learning on Graph (1)             |         |                  |
-|      | Self-supervised Learning on Graph (2)             |         |                  |
-|      | Graph Structural Learning                         |         |                  |
-|      | Graph Generation                                  |         |                  |
+| Date       | Topics                                            | Lecture                                                | Reading material |
+| ---------- | ------------------------------------------------- | ------------------------------------------------------ | ---------------- |
+| 2022/09/09 | Course Introduction                               | [YouTube](https://www.youtube.com/watch?v=BUS1KedOxIM) |                  |
+| 2022/09/24 | Introduction on Spectral Graph Theory             | [YouTube](https://www.youtube.com/watch?v=g6RM1Pkyilg) |                  |
+|            | Graph Convolutional Network                       |                                                        |                  |
+|            | Oversmooth and deeper GNN                         |                                                        |                  |
+|            | Regularization on Graph                           |                                                        |                  |
+|            | Heterphoily Graph                                 |                                                        |                  |
+|            | Graph Pooling                                     |                                                        |                  |
+|            | Powerful Readout function in Graph Neural Network |                                                        |                  |
+|            | Knowledge Graph Completion                        |                                                        |                  |
+|            | Link Prediction                                   |                                                        |                  |
+|            | Matrix Factorization on Graph                     |                                                        |                  |
+|            | Understanding on Graph Neural Network             |                                                        |                  |
+|            | Self-supervised Learning on Graph (1)             |                                                        |                  |
+|            | Self-supervised Learning on Graph (2)             |                                                        |                  |
+|            | Graph Structural Learning                         |                                                        |                  |
+|            | Graph Generation                                  |                                                        |                  |
 
  
 
