@@ -21,7 +21,7 @@ For you, why choose this course since there are many good courses about learning
 
 All the information will be updated on the [Slack work space](https://join.slack.com/t/awesomegraphn-brh9601/shared_invite/zt-1fhvrunlz-_ocT4myFMnDcbGhkTVtahQ). Feel free to give you valuable suggestion and discussion. You can also contact me via email: haitaoma AT msu DOT com.
 
-I wish to complete this course in two years times, a really long time. Since I am also a Ph.D. student, I only have some spare time on Saturday for me to take effort for this course. Hopefully, I need one week to learn and write the learning material, one week to prepare the slides and record the course. It will be cancelled for paper deadlines.
+I wish to complete this course in two years time, a really long time. Since I am also a Ph.D. student, I only have some spare time on Saturday for me to take effort for this course. Hopefully, I need one week to learn and write the learning material, one week to prepare the slides and record the course. It will be cancelled for paper deadlines.
 
 I will first schedule the first few lecture by myself to find the suitable guidance to prepare the course.Then I think it is good to invite experts in the particular domain to work with me on some topics. Voluteer is also welcomed.
 
@@ -29,24 +29,24 @@ I will first schedule the first few lecture by myself to find the suitable guida
 
 ### The schedule
 
-| Date       | Topics                                            | Lecture                                                | Reading material |
-| ---------- | ------------------------------------------------- | ------------------------------------------------------ | ---------------- |
-| 2022/09/09 | Course Introduction                               | [YouTube](https://www.youtube.com/watch?v=BUS1KedOxIM) |                  |
-| 2022/09/24 | Introduction on Spectral Graph Theory             | [YouTube](https://www.youtube.com/watch?v=g6RM1Pkyilg) |                  |
-|            | Graph Convolutional Network                       |                                                        |                  |
-|            | Oversmooth and deeper GNN                         |                                                        |                  |
-|            | Regularization on Graph                           |                                                        |                  |
-|            | Heterphoily Graph                                 |                                                        |                  |
-|            | Graph Pooling                                     |                                                        |                  |
-|            | Powerful Readout function in Graph Neural Network |                                                        |                  |
-|            | Knowledge Graph Completion                        |                                                        |                  |
-|            | Link Prediction                                   |                                                        |                  |
-|            | Matrix Factorization on Graph                     |                                                        |                  |
-|            | Understanding on Graph Neural Network             |                                                        |                  |
-|            | Self-supervised Learning on Graph (1)             |                                                        |                  |
-|            | Self-supervised Learning on Graph (2)             |                                                        |                  |
-|            | Graph Structural Learning                         |                                                        |                  |
-|            | Graph Generation                                  |                                                        |                  |
+| Date       | Topics                                            | Lecture                                                      | Reading material |
+| ---------- | ------------------------------------------------- | ------------------------------------------------------------ | ---------------- |
+| 2022/09/09 | Course Introduction                               | [[YouTube]](https://www.youtube.com/watch?v=BUS1KedOxIM) [[bilibili]](https://www.bilibili.com/video/BV1XB4y1J7MR/?vd_source=85bb42770c1036d2fc85b057595f1054) |                  |
+| 2022/09/24 | Introduction on Spectral Graph Theory             | [[YouTube]](https://www.youtube.com/watch?v=g6RM1Pkyilg) [[bilibili]](https://www.bilibili.com/video/BV1C14y1h71f/)[[slides]](https://github.com/HaitaoMao/Encouraging-Graph-Neural-Network/blob/master/slides/1-Introduction on Spectral Graph Theory.pdf) |                  |
+|            | Graph Convolutional Network                       |                                                              |                  |
+|            | Oversmooth and deeper GNN                         |                                                              |                  |
+|            | Regularization on Graph                           |                                                              |                  |
+|            | Heterphoily Graph                                 |                                                              |                  |
+|            | Graph Pooling                                     |                                                              |                  |
+|            | Powerful Readout function in Graph Neural Network |                                                              |                  |
+|            | Knowledge Graph Completion                        |                                                              |                  |
+|            | Link Prediction                                   |                                                              |                  |
+|            | Matrix Factorization on Graph                     |                                                              |                  |
+|            | Understanding on Graph Neural Network             |                                                              |                  |
+|            | Self-supervised Learning on Graph (1)             |                                                              |                  |
+|            | Self-supervised Learning on Graph (2)             |                                                              |                  |
+|            | Graph Structural Learning                         |                                                              |                  |
+|            | Graph Generation                                  |                                                              |                  |
 
  
 
