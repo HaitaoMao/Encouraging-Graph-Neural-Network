@@ -54,7 +54,7 @@ I will first schedule the first few lecture by myself to find the suitable guida
 
 It will be a draft continually updated with throughout this course. All kinds of feedback is welcomed to improve this book.
 
-
+Coming soon!
 
 ### Prerequisites
 
